@@ -1,7 +1,7 @@
 
 <h1 style="text-align:center">PageRank Algorithm</h1>
 
-An implementation of Google's [PageRank](https://en.wikipedia.org/wiki/PageRank) algorithm.
+An implementation of Google's [PageRank](https://en.wikipedia.org/wiki/PageRank) algorithm ans some use cases on real data..
 
 
 ## Includes
