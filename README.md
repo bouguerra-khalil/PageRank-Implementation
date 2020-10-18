@@ -1,6 +1,6 @@
 
 <h1 style="text-align:center">PageRank Algorithm</h1>
-
+<img style="display: block; margin: auto;" alt="photo"  width="400" src="./images/pagerank.png">
 An implementation of Google's [PageRank](https://en.wikipedia.org/wiki/PageRank) algorithm ans some use cases on real data..
 
 
